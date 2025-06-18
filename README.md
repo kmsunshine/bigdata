@@ -42,7 +42,7 @@
 │   ├── weibo_comments_analyzed.csv     # 含情感值的分析结果
 │   ├── weibo_sentiment.py              # Spark分析与情感分析脚本
 │   └── 爬取微博.py                      # 微博评论爬虫脚本
-|
+│
 └── README.md # 项目说明文件
 ```
 ## ⚙️ 环境依赖
